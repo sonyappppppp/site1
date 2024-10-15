@@ -1,0 +1,80 @@
+
+.start-screen-gradient-background {
+position: absolute;
+width: 1280px;
+height: 908px;
+left: 0;
+background-color: rgb(91, 72, 58),rgb(38, 36, 37) ,rgb(33, 31, 32);
+}
+
+logo {
+position: absolute;
+width: 184px;
+height: 60px;
+left: 0;
+right: 1016px;
+top: 0;
+bottom: 0;
+}
+
+title {
+position: absolute;
+width: 184px;
+height: 35px;
+left: 0;
+top: 0;
+display: flex;
+flex-direction: row;
+align-items: center;
+color: rgb(241, 205, 179);
+font-family: Georgia;
+font-size: 32px;
+font-weight: 400;
+line-height: 110%;
+letter-spacing: 6%;
+text-align: left;
+}
+
+subtitle {
+position: absolute;
+width: 179px;
+height: 15px;
+left: 4px;
+top: 45px;
+display: flex;
+flex-direction: row;
+align-items: center;
+color: rgb(255, 255, 255);
+font-family: Arial;
+font-size: 13px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 10%;
+text-align: left;
+}
+
+.start-screen-gradient-background {
+position: absolute;
+width: 1280px;
+height: 908px;
+left: 0;
+top: 0;
+background: url(),radial-gradient(234.05% 111.80% at 0% 0%,rgb(91, 72, 58),rgb(38, 36, 37) 100%)/* Предупреждение: градиент использует вращение, не поддерживаемое CSS, и может работать не так, как ожидается. */,rgb(33, 31, 32);
+}
+
+.start-screen-background {
+position: absolute;
+width: 1280px;
+height: 908px;
+left: 0;
+top: 0;
+}
+
+.start-screen-puppy {
+position: absolute;
+width: 698px;
+height: 728px;
+left: 502px;
+top: 0;
+background: url(image.png);
+}
