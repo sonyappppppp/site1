@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=\, initial-scale=1.0">
+    <title>Cozy house</title>
+    <link rel="stylesheet" href="site.css">
+</head>
+<header>
+    <img class="start-screen-puppy">
+    <div class='start-screen-gradient-background'></div>
+    <img class="start-screen-gradient-background">
+    <!-- <img class="start-screen-gradient-background"> -->
+    <div class="start-screen-background"></div>
+    <img class="start-screen-puppy">
+    <logo>
+        <title>Cozy House</title> 
+        <subtitle>Shelter for pets in Boston</subtitle>
+    </logo>
+</header>
+<body>
+  
+</body>
+</html>
