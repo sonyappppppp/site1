@@ -6,18 +6,24 @@
     <title>Cozy house</title>
     <link rel="stylesheet" href="site.css">
 </head>
-<header>
-    <img class="start-screen-puppy">
-    <div class='start-screen-gradient-background'></div>
-    <img class="start-screen-gradient-background">
-    <!-- <img class="start-screen-gradient-background"> -->
-    <div class="start-screen-background"></div>
-    <img class="start-screen-puppy">
-    <logo>
+   <header> 
+    <div class = "logo">
         <title>Cozy House</title> 
         <subtitle>Shelter for pets in Boston</subtitle>
-    </logo>
+    </div>
+    <div class="nav-menu">
+      <ul class="av">
+        <li class="q"><a href="#about">About the shelter</a></li>
+        <li><a href="#pets">Our pets</a></li>
+        <li><a href="#help">Help the shelter</a></li>
+        <li><a href="#contacts">Contacts</a></li>
+      </ul>
+    </div>
+
+  
+           
 </header>
+<main><div class="start-screen-gradient-background"></div></main>
 <body>
   
 </body>
