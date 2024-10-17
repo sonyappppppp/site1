@@ -4,12 +4,14 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     width: 100vw;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
+
 li{
     list-style: none;
 }
@@ -18,6 +20,7 @@ a{
  text-decoration: none;
  color: #cdcdcd;
 }
+
 .start-screen-gradient-background {
 position: absolute;
 width: 1280px;
